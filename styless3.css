@@ -1,0 +1,144 @@
+.heading{
+    display: inline-block;
+    margin-top: 12px;
+}
+
+.image{
+    margin-left: 75px;
+}
+
+.Alcheringa{
+    margin-left: 20px;
+    font-size: xx-large;
+    font-family: Comic Sans MS;
+    color: #a6a5a5;
+}
+
+.Connect {
+    font-size: xx-large;
+    font-family: Comic Sans MS;
+    margin-left: 15px;
+    color: orange;
+}
+
+.h1{
+    margin-top: 25px;
+    margin-left: 75px;
+    font-family: Comic Sans MS;
+}
+
+.form{
+    margin-left: 75px;
+    border: 2px solid lightgray;
+    border-radius: 2px;
+    box-shadow: 1.5px 1.5px 1.5px black;
+    display: inline-block;
+    margin-top: 50px;
+    width: 350px;
+}
+
+.label{
+    margin-left: 15px;
+}
+
+.file{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.label2{
+    margin-left: 15px;
+}
+
+#Caption{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.share{
+    height: 25px;
+    width: 245px;
+    margin-left: 15px;
+    margin-top: 30px;
+    color: black;
+    background-color: white;
+    transition: box-shadow 0.15ms;
+    transition: opacity 0.15ms;
+}
+
+.share:hover{
+    box-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.share:active{
+    opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.forms {
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    height: 450px;
+    width: 300px;
+    font-family: Comic Sans MS;
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 100px; 
+    box-shadow: 1.5px 1.5px 1.5px rgb(178, 174, 174);
+    vertical-align: top;
+}
+
+.login {
+    font-size: 2em;
+    margin-left: 15px;
+}
+
+.profile {
+    background-color: #ea3911;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    color: white;
+
+}
+
+.pic{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+
+
+.buttonssss {
+    width: 250px;
+    height: 25px;
+    font-family: Comic Sans MS;
+    color: #a6a5a5;
+    margin-left: 15px;
+    border: 1px solid black;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: opacity 15ms;
+    transition: box-shadow 15ms;
+}
+
+.buttonssss:hover{
+    box-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.buttonssss:active{
+    opacity: 0.7;
+}
